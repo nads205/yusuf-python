@@ -25,4 +25,4 @@ number_grid = [
     [100, 0]
 ]
 
-print(number_grid[10][7])
+print(number_grid[8][8])
