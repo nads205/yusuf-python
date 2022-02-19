@@ -1,4 +1,7 @@
 
+print ("This is Yusuf's MAD LIBS GAME!!!!")
+
+
 color = input("Enter a color: ")
 plural_noun = input("Enter a Plural noun: ")
 celebrity = input("Enter a celebrity: ")
@@ -11,4 +14,4 @@ print(plural_noun + " are blue")
 print("I love " + celebrity)
 print(car + " is fast")
 print(animal + " are amazing")
-print(phone + " are small")
+print(phone + " are MASSIVE!!!")
