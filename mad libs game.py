@@ -1,4 +1,7 @@
 
+from lzma import FILTER_POWERPC
+
+
 print ("This is Yusuf's MAD LIBS GAME!!!!")
 
 
@@ -14,4 +17,4 @@ print(plural_noun + " are blue")
 print("I love " + celebrity)
 print(car + " is fast")
 print(animal + " are amazing")
-print(phone + " are MASSIVE!!!")
+print(phone + " are poo!!!")
